@@ -86,7 +86,7 @@ th,td{
 
 .table1{
   background-color:lightpink;
-     padding: 30px;
+     padding: 50px;
 }
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
