@@ -88,6 +88,17 @@ th,td{
   background-color:lightpink;
      padding: 30px;
 }
+@media only screen and (max-width:620px) {
+  /* For mobile phones: */
+   .row {
+    flex-direction: column-reverse;
+  }
+    .col-25 {
+    margin-bottom: 20px;
+  }
+    .table, .footer, {
+          width:100%;
+    }
 .footer{
 color:grey;
 background-image: url('6223c07805a787892e961dbab9d3f315.jpg');
