@@ -46,12 +46,12 @@ h1{
   clear: both;
 }
 .content {
-  background-color:lightgray;
-  padding: 40px;
+  
+  padding: 100px;
 }
 .column {
   float: left;
-  width: 20%;
+  width: 30%;
 
 }
 h4{
@@ -90,7 +90,7 @@ th,td{
 
 .table1{
   background-color:lightpink;
-     padding:50px;
+     padding:20px;
 }
 @media only screen and (max-width:620px) {
   /* For mobile phones: */
@@ -110,6 +110,10 @@ background-image: url('6223c07805a787892e961dbab9d3f315.jpg');
 text-align: right;
 padding: 20px;
 }
+
+
+
+
 
 
 
